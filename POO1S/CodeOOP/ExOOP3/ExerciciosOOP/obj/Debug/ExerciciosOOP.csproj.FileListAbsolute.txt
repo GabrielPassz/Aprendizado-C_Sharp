@@ -1,0 +1,7 @@
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP3\ExerciciosOOP\bin\Debug\ExerciciosOOP.exe.config
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP3\ExerciciosOOP\bin\Debug\ExerciciosOOP.exe
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP3\ExerciciosOOP\bin\Debug\ExerciciosOOP.pdb
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP3\ExerciciosOOP\obj\Debug\ExerciciosOOP.csproj.AssemblyReference.cache
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP3\ExerciciosOOP\obj\Debug\ExerciciosOOP.csproj.CoreCompileInputs.cache
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP3\ExerciciosOOP\obj\Debug\ExerciciosOOP.exe
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP3\ExerciciosOOP\obj\Debug\ExerciciosOOP.pdb

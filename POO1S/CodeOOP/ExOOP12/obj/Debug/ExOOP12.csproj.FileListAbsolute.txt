@@ -1,0 +1,7 @@
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP12\bin\Debug\ExOOP12.exe.config
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP12\bin\Debug\ExOOP12.exe
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP12\bin\Debug\ExOOP12.pdb
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP12\obj\Debug\ExOOP12.csproj.AssemblyReference.cache
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP12\obj\Debug\ExOOP12.csproj.CoreCompileInputs.cache
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP12\obj\Debug\ExOOP12.exe
+C:\Users\Bielb\OneDrive\Área de Trabalho\Aulas Unip\POO1S\CodeOOP\ExOOP12\obj\Debug\ExOOP12.pdb

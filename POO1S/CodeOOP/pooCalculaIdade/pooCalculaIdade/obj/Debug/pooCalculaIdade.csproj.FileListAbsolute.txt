@@ -1,0 +1,7 @@
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.csproj.AssemblyReference.cache
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\pooCalculaIdade\pooCalculaIdade\bin\Debug\pooCalculaIdade.exe.config
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\pooCalculaIdade\pooCalculaIdade\bin\Debug\pooCalculaIdade.exe
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\pooCalculaIdade\pooCalculaIdade\bin\Debug\pooCalculaIdade.pdb
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.exe
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.pdb

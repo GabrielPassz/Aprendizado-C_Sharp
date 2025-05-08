@@ -1,0 +1,110 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Página-1" id="mBzztjjE1htirHH1m6_b">
+    <mxGraphModel dx="1560" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PZAd172AtOwlA6TTgWJv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-2" target="PZAd172AtOwlA6TTgWJv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-2" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="455" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-3" target="PZAd172AtOwlA6TTgWJv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-3" value="String nomeVend&lt;div&gt;Float montVend&lt;br&gt;&lt;div&gt;Float META_VEND&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-5" target="PZAd172AtOwlA6TTgWJv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-5" value="nomevend = &quot;&quot;&lt;div&gt;montVend= 0&lt;/div&gt;&lt;div&gt;META_VEND = 15000&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="670" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-7" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-755" y="770" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-9" target="PZAd172AtOwlA6TTgWJv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-417.75" y="360" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-10" target="PZAd172AtOwlA6TTgWJv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-10" value="&quot;Defina seu sexo,digitando&amp;nbsp; &#39;F&#39; para feminino ou &#39;M&#39; para masculino.&quot;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="625" width="394.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-11" target="PZAd172AtOwlA6TTgWJv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-11" value="&quot;Insira seu nome de usuário:&quot;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-504.75" y="455" width="223" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-13" target="PZAd172AtOwlA6TTgWJv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-13" value="nomeUser" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-432.75" y="515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-14" target="PZAd172AtOwlA6TTgWJv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-14" value="sexoUser" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-432.75" y="715" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-18" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-417.75" y="825" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-20" target="PZAd172AtOwlA6TTgWJv-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-20" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-817" y="987.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-21" target="PZAd172AtOwlA6TTgWJv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-28" value="F" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PZAd172AtOwlA6TTgWJv-26">
+          <mxGeometry x="0.2542" y="1" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-21" value="sexoUser == &quot;M&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="950" width="130" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-23" target="PZAd172AtOwlA6TTgWJv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-23" value="&quot;O nome do usuario é , &quot; + nomeUser &quot; e seu sexo é masculino.&quot;" style="shape=display;whiteSpace=wrap;html=1;size=0.2503168567807351;" vertex="1" parent="1">
+          <mxGeometry x="-318.75" y="900" width="394.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-24" target="PZAd172AtOwlA6TTgWJv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-24" value="&quot;O nome do usuario é , &quot; + nomeUser &quot; e seu sexo é feminino.&quot;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-318.75" y="1070" width="394.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-21" target="PZAd172AtOwlA6TTgWJv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-27" value="V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PZAd172AtOwlA6TTgWJv-25">
+          <mxGeometry x="0.261" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-146.5" y="987.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-32" value="fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="982.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZAd172AtOwlA6TTgWJv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZAd172AtOwlA6TTgWJv-29" target="PZAd172AtOwlA6TTgWJv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

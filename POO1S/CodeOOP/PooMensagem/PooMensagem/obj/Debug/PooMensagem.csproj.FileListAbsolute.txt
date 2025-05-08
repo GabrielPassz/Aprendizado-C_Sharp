@@ -1,0 +1,7 @@
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\PooMensagem\PooMensagem\bin\Debug\PooMensagem.exe.config
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\PooMensagem\PooMensagem\bin\Debug\PooMensagem.exe
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\PooMensagem\PooMensagem\bin\Debug\PooMensagem.pdb
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\PooMensagem\PooMensagem\obj\Debug\PooMensagem.csproj.AssemblyReference.cache
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\PooMensagem\PooMensagem\obj\Debug\PooMensagem.csproj.CoreCompileInputs.cache
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\PooMensagem\PooMensagem\obj\Debug\PooMensagem.exe
+C:\Users\Bielb\OneDrive\Documentos\Aulas Unip\POO1S\CodeOOP\PooMensagem\PooMensagem\obj\Debug\PooMensagem.pdb
